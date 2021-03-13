@@ -13,7 +13,7 @@
  * Think of an appropriate way to organize your tests and use Page Object Model
  * Base test class with methods missing in Selenium WebDriver
  */
-
+//test
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 using System;
